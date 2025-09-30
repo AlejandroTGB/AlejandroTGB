@@ -1,5 +1,3 @@
-# Perfil GitHub de Alejandro Torres
-
 <h1 align="left">Hola 👋  soy Alejandro</h1>
 
 <p align="left">
@@ -36,7 +34,7 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
     <td width="25%" align="center">
       <p align="center">
         <a href="https://duroc-sa.github.io/Pagina-Fullstack-II/index.html" title="Ver página">
-          <img align="center" width="100%" src="https://raw.githubusercontent.com/Duroc-SA/Pagina-Fullstack-II/main/assets/logo.png" alt="Retropixel Store" />
+          <img align="center" width="100%" src="img/retropixel.png" alt="Retropixel Store" />
         </a>
       </p>
       <p align="center">
@@ -51,10 +49,6 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
     </td>
   </tr>
 </table>
-<h2>Vista previa del proyecto</h2>
-<p align="center">
-  <img src="img/retropixel.png" alt="Vista previa del proyecto" width="400" />
-</p>
 <br>
   
 </tr>
