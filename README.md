@@ -6,7 +6,7 @@
 </p>
 <br>
 
-<h2>Sobre mí 😃</h2>
+<h2>Sobre mí </h2>
 <!--Intro start-->
 <p align="left">
 Estudiante de Ingeniería en Informática en Duoc UC.<br>
@@ -29,35 +29,18 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
 <br>
 
 <h2>Algunos proyectos 👨🏻‍💻</h2>
-<table align="left">
-  <tr border="none">
-    <td width="25%" align="center">
-      <p align="center">
-        <a href="https://duroc-sa.github.io/Pagina-Fullstack-II/index.html" title="Ver página">
-          <img align="center" width="100%" src="img/retropixel.png" alt="Retropixel Store" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Duroc-SA/Pagina-Fullstack-II" target="blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </p>
-      <p align="center">
-        <b>Retropixel Store</b><br>
-        Proyecto básico de tienda web hecho con HTML, CSS y JavaScript.
-      </p>
-    </td>
-  </tr>
-</table>
-<br>
-  
-</tr>
-</table>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+<div align="center" style="width:100%;">
+  <a href="https://duroc-sa.github.io/Pagina-Fullstack-II/index.html" title="Ver página">
+    <img width="100%" src="img/retropixel.png" alt="Retropixel Store" />
+  </a>
+  <br>
+  <a href="https://github.com/Duroc-SA/Pagina-Fullstack-II" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <b>Retropixel Store</b><br>
+  Proyecto básico de tienda web hecho con HTML, CSS y JavaScript.
+</div>
 
 <h2>GitHub</h2>
 <p align="center">
