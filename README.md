@@ -51,6 +51,10 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
     </td>
   </tr>
 </table>
+<h2>Vista previa del proyecto</h2>
+<p align="center">
+  <img src="img/retropixel.png" alt="Vista previa del proyecto" width="400" />
+</p>
 <br>
   
 </tr>
