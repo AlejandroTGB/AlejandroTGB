@@ -16,7 +16,7 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
 
 <br>
 
-<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" width="60" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" width="60" alt="Java" />
@@ -28,7 +28,7 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
 </div>
 <br>
 
-<h2>Algunos proyectos 👨🏻‍💻</h2>
+<h2>Algunos proyectos </h2>
 <div align="center" style="width:100%;">
   <a href="https://duroc-sa.github.io/Pagina-Fullstack-II/index.html" title="Ver página">
     <img width="100%" src="img/retropixel.png" alt="Retropixel Store" />
