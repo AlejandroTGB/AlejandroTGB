@@ -30,6 +30,19 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
 
 <h2>Algunos proyectos </h2>
 <div align="center" style="width:100%;">
+  <a href="https://alejandrotgb.github.io/Portfolio/" title="Ver portfolio">
+    <img width="100%" src="img/portfolio.png" alt="Mi Portfolio" />
+  </a>
+  <br>
+  <a href="https://github.com/AlejandroTGB/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <b>Mi Portfolio</b><br>
+  Proyecto personal mostrando mis habilidades y proyectos realizados.
+</div>
+<br>
+<div align="center" style="width:100%;">
   <a href="https://duroc-sa.github.io/Pagina-Fullstack-II/index.html" title="Ver página">
     <img width="100%" src="img/retropixel.png" alt="Retropixel Store" />
   </a>
@@ -41,6 +54,8 @@ Conocimientos en Python, Java, Spring Boot, Kotlin, HTML, CSS, JavaScript y SQL.
   <b>Retropixel Store</b><br>
   Proyecto básico de tienda web hecho con HTML, CSS y JavaScript.
 </div>
+
+
 
 <h2>GitHub</h2>
 <p align="center">
