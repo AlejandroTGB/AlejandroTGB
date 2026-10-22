@@ -5,22 +5,7 @@ Certificación **Desarrollador Fullstack** — Duoc UC, 2026.
 
 Construyo aplicaciones completas y las pongo en producción: API REST, frontend, base de datos y despliegue.
 
-<p align="left">
-  <img src="./img/lineicons--java.svg" alt="Java" title="Java" width="30" height="30" />
-  <img src="./img/springboot.svg" alt="Spring Boot" title="Spring Boot" width="30" height="30" />
-  <img src="./img/python.svg" alt="Python" title="Python" width="30" height="30" />
-  <img src="./img/fastapi.svg" alt="FastAPI" title="FastAPI" width="30" height="30" />
-  <img src="./img/typescript.svg" alt="TypeScript" title="TypeScript" width="30" height="30" />
-  <img src="./img/javascript.svg" alt="JavaScript" title="JavaScript" width="30" height="30" />
-  <img src="./img/react.svg" alt="React" title="React" width="30" height="30" />
-  <img src="./img/kotlin.svg" alt="Kotlin" title="Kotlin" width="30" height="30" />
-  <img src="./img/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="30" height="30" />
-  <img src="./img/mongodb.svg" alt="MongoDB" title="MongoDB" width="30" height="30" />
-  <img src="./img/docker.svg" alt="Docker" title="Docker" width="30" height="30" />
-  <img src="./img/mdi--aws.svg" alt="AWS" title="AWS" width="30" height="30" />
-  <img src="./img/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="30" height="30" />
-  <img src="./img/linux.svg" alt="Linux" title="Linux" width="30" height="30" />
-</p>
+**Java** · Spring Boot · Python · FastAPI · TypeScript · React · Kotlin · PostgreSQL · MongoDB · Docker · AWS · GitHub Actions · Linux
 
 ### Proyectos
 
